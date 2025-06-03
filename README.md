@@ -3,7 +3,7 @@ steps: 1. Data collection
 	2. Data visualization
 	3. Data preprocessing
 		3.1 Exploratory Data Analysis (EDA)
-		3.2 Data deaning
+		3.2 Data Cleaning
 			3.2.1 Null value detection
 			3.2.2 Data Duplication Handling
 			3.2.3 Uniformity in dataset (datatype)
